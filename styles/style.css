@@ -23,6 +23,8 @@ body{
 
 .header{
     padding: 2% 0% 0% 15%;
+    align-items: center;
+    justify-content: space-between;
 }
 
 .header__menu{
@@ -44,8 +46,9 @@ body{
 }
 
 .lang-button {
-    /*background-color: transparent;*/
+    background-color: transparent;
     font-size: 1.25rem;
+    color: var(--color-terciario);
     border: 0;
     cursor: pointer;
 }
