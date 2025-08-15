@@ -38,10 +38,10 @@ body{
 
 }
 
-/*.languages {
+.languages {
     display: flex;
     gap: .5rem;
-}*/
+}
 
 .lang-button {
     /*background-color: transparent;*/
