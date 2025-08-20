@@ -6,7 +6,8 @@
     },
     "about-me": {
         "title": "Sobre mí",
-        "text": "¡Hola! Soy Cristian, un desarrollador Full-stack, entusiasmado por Spring Framework, una persona apasionada por el código."
+        "text": "¡Hola! Soy Cristian, un desarrollador Full-stack, entusiasmado por Spring Framework, una persona apasionada por el código.",
+        "availability": "Actualmente estoy disponible para trabajar."
     },
     "experience": {
         "title": "Currículum",
